@@ -1,0 +1,16 @@
+#form{
+    align-content: center;
+    align-self: center;
+    width: 400px;
+    height: 500px;
+    background-color: beige;
+}
+body{
+    align-content: center;
+    text-align: center;
+    align-items: center;
+    margin: 0;
+}
+
+
+
